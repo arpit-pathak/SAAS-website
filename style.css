@@ -168,6 +168,15 @@
     box-shadow: 3px 3px 3px 3px #d8d8d8;
 }
 
+.card:hover {
+    transform: scale(1.035);
+}
+
+.card:hover .card-content {
+    background-color: #7030CC;
+    color: #fff;
+}
+
 .card-content {
     border-radius: 25px;
     padding: 1.3rem;
@@ -175,10 +184,10 @@
     height: 50%;
 }
 
-.card-active {
+/* .card-active {
     background-color: #7030CC;
     color: #fff;
-}
+} */
 
 .card-content h3 {
     font-size: 1.6rem;
