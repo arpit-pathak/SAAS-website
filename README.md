@@ -11,7 +11,7 @@
 
 ### website on different devices
 
-![website on different devices](./screenshots/13mockup.png)
+![website on different devices](./screenShots/13mockup.png)
 
 ## 📌 What I learned from this Project? 📝
 
